@@ -9,3 +9,4 @@
   "tailwindStylesheet": "src/index.css",
   "tailwindFunctions": ["cn", "cva"]
 }
+
